@@ -1,0 +1,32 @@
+body {
+    font-family: cursive;
+    text-align: center;
+}
+#header {
+    background-color: black;
+    padding: 20px;
+}
+#head {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h1 {
+    color: white;
+}
+h3 {
+    color: aquamarine;
+}
+span {
+    color: crimson;
+}
+.buttons {
+    width: 30%;
+    margin-left: 35%;
+    display: flex;
+    justify-content: space-around;
+}
+button {
+    width: 30%;
+    margin: 10px;
+    padding: 5px;
+}
